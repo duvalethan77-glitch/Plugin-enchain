@@ -1,0 +1,11 @@
+# Autorise les enchantements normalement incompatibles lors de la fusion à l'enclume.
+allow-incompatible-enchantments: true
+
+# Autorise les enchantements sur des objets qui ne les acceptent normalement pas.
+allow-unusual-items: true
+
+# Autorise les niveaux supérieurs au niveau vanilla.
+allow-levels-over-max: true
+
+# Coût minimum appliqué aux fusions gérées par le plugin.
+anvil-minimum-cost: 1

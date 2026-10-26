@@ -1,0 +1,15 @@
+name: EnchantedItems
+version: 1.0.0
+main: fr.example.enchanteditems.EnchantedItems
+api-version: '1.21'
+description: Enchantement personnalisé inspiré des serveurs SMP.
+author: EnchantedItems
+commands:
+  enchanteditems:
+    description: Commandes du plugin EnchantedItems
+    usage: /enchanteditems <enchant|reload|help>
+    aliases: [ei]
+permissions:
+  enchanteditems.admin:
+    description: Autorise toutes les commandes EnchantedItems
+    default: op
